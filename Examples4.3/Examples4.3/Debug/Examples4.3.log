@@ -1,2 +1,3 @@
 ﻿  Examples4.3.cpp
-  Examples4.3.vcxproj -> D:\work\projects\SedzhvikExamples\Examples4.3\Debug\Examples4.3.exe
+D:\work\projects\SedzhvikExamples\Examples4.3\Examples4.3\Examples4.3.cpp(34,1): error C2090: функция возвращает массив
+D:\work\projects\SedzhvikExamples\Examples4.3\Examples4.3\Examples4.3.cpp(77): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "STACK<char []>"

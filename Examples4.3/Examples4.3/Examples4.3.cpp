@@ -1,8 +1,9 @@
 ﻿
 #include <iostream>
 #include <vector>
+#include <string>
 
-// Напишите программу, которая с использованием стека магазинного типа преобразует постфиксальное выражение в инфиксальное
+// Решить уравнение
 // 59*8746+*213*+*+*.
 #include <stdexcept>
 
@@ -40,7 +41,7 @@ public:
     }
 };
 
-void example4_18() {
+void example4_13() {
     int N = 17;
     STACK<int> stack(N);
     char* a = new char[N];
@@ -73,12 +74,13 @@ void example4_18() {
             stack.push(val);
         }
     }
+
     std::cout << stack.pop();
 }
 
 int main()
 {
-    example4_18();
+    example4_13();
 }
 
 
