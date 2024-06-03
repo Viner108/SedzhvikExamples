@@ -1,0 +1,15 @@
+﻿  Example3.46-3.54.cpp
+D:\work\projects\СейджвикУпражения\Example3.46-3.54\Example3.46-3.54\Example3.46-3.54.cpp(39,23): error C2062: тип "int" не требуется
+D:\work\projects\СейджвикУпражения\Example3.46-3.54\Example3.46-3.54\Example3.46-3.54.cpp(39,34): error C2065: i: необъявленный идентификатор
+D:\work\projects\СейджвикУпражения\Example3.46-3.54\Example3.46-3.54\Example3.46-3.54.cpp(39,59): error C2065: i: необъявленный идентификатор
+D:\work\projects\СейджвикУпражения\Example3.46-3.54\Example3.46-3.54\Example3.46-3.54.cpp(39,62): error C2059: синтаксическая ошибка: )
+D:\work\projects\СейджвикУпражения\Example3.46-3.54\Example3.46-3.54\Example3.46-3.54.cpp(41,24): error C2065: i: необъявленный идентификатор
+D:\work\projects\СейджвикУпражения\Example3.46-3.54\Example3.46-3.54\Example3.46-3.54.cpp(41,21): error C2512: Node::Node: нет подходящего конструктора по умолчанию
+D:\work\projects\СейджвикУпражения\Example3.46-3.54\Example3.46-3.54\Example3.46-3.54.cpp(41,27): error C2059: синтаксическая ошибка: ;
+D:\work\projects\СейджвикУпражения\Example3.46-3.54\Example3.46-3.54\Example3.46-3.54.cpp(43,2): error C2059: синтаксическая ошибка: return
+D:\work\projects\СейджвикУпражения\Example3.46-3.54\Example3.46-3.54\Example3.46-3.54.cpp(44,1): error C2059: синтаксическая ошибка: }
+D:\work\projects\СейджвикУпражения\Example3.46-3.54\Example3.46-3.54\Example3.46-3.54.cpp(44,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+D:\work\projects\СейджвикУпражения\Example3.46-3.54\Example3.46-3.54\Example3.46-3.54.cpp(48,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+D:\work\projects\СейджвикУпражения\Example3.46-3.54\Example3.46-3.54\Example3.46-3.54.cpp(48,20): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  main.cpp
+  Создание кода...
